@@ -1,0 +1,1 @@
+Este projeto é um piano virtual desenvolvido com HTML, CSS e JavaScript. Ele permite tocar notas musicais clicando nas teclas na tela ou usando o teclado do computador. O piano inclui controles para ajustar o volume  de forma bem simples e de mostrar/ocultar as letras nas teclas.
